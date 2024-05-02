@@ -2,7 +2,8 @@
 ### Overview
 This project is a multi-tenancy web application built using ASP.NET Core. It provides a scalable and efficient solution for hosting multiple </br>tenants (clients or organizations) within a single application instance, each with its own isolated data and configurations.
 ### Features
-### Multi-Tenancy Support: Allows hosting multiple tenants within a single application instance.
+### Multi-Tenancy Support: 
+Allows hosting multiple tenants within a single application instance.
 Tenant Isolation: Ensures that each tenant's data and configurations are isolated from other tenants.
 Flexible Configuration: Provides options for configuring tenant-specific settings such as database connections, permissions, etc.
 ### Authentication & Authorization: 
@@ -16,7 +17,8 @@ Backend framework for building web APIs.
  ORM for database operations and multi-tenancy data isolation.
 ### Identity Framework: 
 Provides user authentication and authorization features.
-### SQL Server: Database for storing tenant data and application settings.
+### SQL Server: 
+Database for storing tenant data and application settings.
 
 ### Dependency Injection: 
 Utilized for managing services and components within the application.
